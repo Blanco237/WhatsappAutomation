@@ -1,0 +1,23 @@
+2022/08/30-23:08:14.714 1eb4 Creating DB C:\Users\Admin\Desktop\React Projects\WhatsappAutomation\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/08/30-23:08:14.888 1eb4 Reusing MANIFEST C:\Users\Admin\Desktop\React Projects\WhatsappAutomation\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/30-23:08:56.890 3658 Level-0 table #5: started
+2022/08/30-23:08:57.132 3658 Level-0 table #5: 1057931 bytes OK
+2022/08/30-23:08:57.445 3658 Delete type=0 #3
+2022/08/30-23:09:13.486 3144 Level-0 table #7: started
+2022/08/30-23:09:13.871 3144 Level-0 table #7: 1069836 bytes OK
+2022/08/30-23:09:13.991 3144 Delete type=0 #4
+2022/08/30-23:09:14.003 3144 Compacting 1@1 + 1@2 files
+2022/08/30-23:09:14.043 3144 Level-0 table #10: started
+2022/08/30-23:09:14.211 3144 Level-0 table #10: 1648618 bytes OK
+2022/08/30-23:09:14.523 3144 Delete type=0 #6
+2022/08/30-23:09:15.716 3144 Generated table #8@1: 20258 keys, 1147903 bytes
+2022/08/30-23:09:15.716 3144 Compacted 1@1 + 1@2 files => 1147903 bytes
+2022/08/30-23:09:15.863 3144 compacted to: files[ 1 0 1 0 0 0 0 ]
+2022/08/30-23:09:16.202 1158 Moved #10 to level-1 1648618 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2022/08/30-23:09:16.763 3658 Compacting 1@1 + 1@2 files
+2022/08/30-23:09:17.450 3658 Generated table #11@1: 25148 keys, 2193520 bytes
+2022/08/30-23:09:17.642 3658 Generated table #12@1: 5623 keys, 594334 bytes
+2022/08/30-23:09:17.642 3658 Compacted 1@1 + 1@2 files => 2787854 bytes
+2022/08/30-23:09:17.725 3658 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/08/30-23:09:17.725 3658 Delete type=2 #5
+2022/08/30-23:09:17.725 3658 Delete type=2 #7
